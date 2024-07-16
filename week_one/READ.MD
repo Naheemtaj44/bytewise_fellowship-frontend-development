@@ -48,3 +48,70 @@ Tips:
 🚀 Let's make this journey productive and motivational! Remember, every small step brings you closer to greatness.
 
 Happy Coding 💯
+
+
+
+day two task
+
+Assalam Alaikum Team!
+
+Today is Day 2 of our Bytewise Fellowship! 🎉 Let's keep the momentum going with some essential frontend skills.
+
+Learning Resources for Today:
+📺 Video: Frontend Development learning in the RIGHT way
+https://www.youtube.com/watch?v=ME9sexcnV4o
+📺 Video: Learn Frontend Development 2x Faster
+https://www.youtube.com/watch?v=wxvOvqR1IXQ
+
+Happy Hacking 💯
+
+
+day three task
+
+Bytewise Fellowship - Day 3 (6/12/2024) 🌟
+
+👋 Assalam Alaikum Team!
+
+Today's task focuses on HTML - Basic Tags. 🚀 Let's dive into the foundational elements of frontend development!
+
+Learning Resources for Today:
+📖 Tutorial: HTML Basic Tags Link: https://www.youtube.com/watch?v=Ut4RpySLM6Y
+
+
+
+day four task
+Bytewise Fellowship - Day 4 (6/13/2024) 🌟
+
+👋 Assalam Alaikum Team!
+Great impact by your progress and quality posts.  💯
+
+Today's task focuses on HTML - Semantic Tags. 🚀 Let's enhance our understanding of meaningful HTML structure!
+
+Resource:
+https://www.youtube.com/watch?v=fhoDRB53DwY
+
+Learning Resources for Today:
+📖 Tutorial: HTML Semantic Elements Link
+
+Tips:
+🤝 Community Support: Help each other in a respectful and positive manner.
+
+Keep up the great work! 💪
+
+
+day five task
+Public Holidays are off but make sure to care your post's streak.
+Eid Mubarak in Advance 🎊
+
+🌟 Bytewise Fellowship - Day 5 (6/14/2024) 🌟
+
+👋 Assalam Alaikum Team!
+
+Today's task focuses on HTML - Media Tags. 🚀 Let's learn how to make webpage responsive.
+
+Learning Resources for Today:
+📖 Tutorial: HTML Media Elements Link: https://www.youtube.com/watch?v=yU7jJ3NbPdA
+Tips:
+🎯 Weekly Goal: Complete all your pending tasks by the weekend.
+
+“Opportunities don't happen, you create them.” 💯
