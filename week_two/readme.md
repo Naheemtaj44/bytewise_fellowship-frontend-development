@@ -72,21 +72,3 @@ Tips:
 🤝 Community Support: Help each other in a respectful and positive manner.
 
 Jumma Mubarak.
-
-
-day five task
-Bytewise Fellowship - Day 20 (7/1/2024) 🌟
-
-👋 Assalam Alaikum Team!
-
-Today's task focuses on Resources - Design Materials. 🚀 Let's gather some essential design materials to enhance our frontend projects!
-
-Learning Resource for Today:
-📺 Video: Design Resources for Developers
-https://www.youtube.com/watch?v=fAK9NxsR3es
-
-Tips:
-🤝 Community Support: Help each other in a respectful and positive manner.
-📚 Balancing Studies: Prioritize your exams and defenses; catch up on tasks over the weekend.
-
-Keep up it up 💯🎊
