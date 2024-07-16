@@ -1,3 +1,14 @@
-h1{
-    color:red;
-}
+
+  
+  #box{
+    background-color:chocolate;
+  }
+  
+  body{background-color: firebrick;
+  }
+  #heading{
+    color: fuchsia;
+  }
+  button{
+    color: gainsboro;
+  }
