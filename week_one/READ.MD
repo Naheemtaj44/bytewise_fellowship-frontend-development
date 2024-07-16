@@ -52,7 +52,6 @@ Happy Coding 💯
 
 
 day two task
-
 Assalam Alaikum Team!
 
 Today is Day 2 of our Bytewise Fellowship! 🎉 Let's keep the momentum going with some essential frontend skills.
@@ -100,6 +99,7 @@ Keep up the great work! 💪
 
 
 day five task
+
 Public Holidays are off but make sure to care your post's streak.
 Eid Mubarak in Advance 🎊
 
@@ -115,3 +115,5 @@ Tips:
 🎯 Weekly Goal: Complete all your pending tasks by the weekend.
 
 “Opportunities don't happen, you create them.” 💯
+
+saturday and sunday chutti
