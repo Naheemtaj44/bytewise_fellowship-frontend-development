@@ -54,4 +54,4 @@ https://www.youtube.com/watch?v=Tgat3-prVv4
 Announcement
 This task is optional due to ongoing exams and incomplete submissions. This week is a grace period for fellows to submit their Week 1 and 2 progress. Starting next week, we'll begin Bootstrap and JavaScript, and submissions will close. Please allocate at least 30 minutes daily to stay on track.
 
-Happy Hacking💯
+Happy Hacking
