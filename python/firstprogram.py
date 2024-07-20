@@ -201,4 +201,44 @@
 # str1="naeem"
 # len1=len(str1)
 # print(len1)
+# str="naeem taj"
+# print(str[0:6])
+
+# name="nahe hgd \n hewjhff"
+# print(name)
+# str1="naeem taj"
+# len1=len(str1)
+# print(len1)
+# str2="balochistan"
+# len2=len(str2)
+# print(len2)
+# print(len1+len2)
+
+
+# str1="baloch"
+# len1=len(str1)
+# print(len1)
+
+# str2="durra baloch"
+# len2=len(str2)
+# print(len2)
+# sum=len2+len1
+# print(sum)
+
+# str="apna balochistan"
+# len1=len(str)
+# print(len1)
+# print(str)
+# str1="frequency"
+# len2=len(str1)
+# print(str1)
+# print(len2)
+# print(type(str1))
+# print(type(str))
+
+str="naheem taj"
+print(str[-3:-1])
+
+
+
 
