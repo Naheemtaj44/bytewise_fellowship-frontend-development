@@ -36,7 +36,7 @@
 # sum=c+n
 # print(sum)
 
-#arithmetic operation
+# arithmetic operation
 # a=4
 # b=4
 # print(a-b)
@@ -45,11 +45,11 @@
 # print(a/b)
 # print(a%b) #remaider/mudeli
 # print(a**b)#power operator
-#relational operator
+# relational operator
 # a=12
 # b=33
 # print(a==b)#false
-# print(a!=b)#tlue
+# print(a!=b)#
 # print(a<=b)#true
 # print(a<b)#true
 # print(a>b#false)
@@ -60,7 +60,7 @@
 # num=num+10 #10+10=20
 # print("num:",num)
 
-#assigment operator
+# assigment operator
 # num=10
 # num*=10
 # print("num:",num)# num*1o=100
@@ -71,7 +71,7 @@
 # print("num:",num)# num*1o=1000000
 
 
-#logical operator
+# logical operator
 # a=30
 # b=15
 # print(not False)
@@ -121,9 +121,84 @@
 # val=input("enter your age")
 # print(type(val),val)
 
-val=int(input("enter your age"))
-print(type(val),val)
+# val=int(input("enter your age"))
+# print(type(val),val)
+
+# name=input("enter you name")
+# print("welcome:",name)
+# practice
+# print("naeem taj")
+# print("my name is:","naeem taj")
+# print("balochistan")
+
+# print("i am from balochistan")
+# # print("jf7","bills ","gakhdbd")
+# # print("8743")
+# # print(76)
+# # price=32.2
+# # age=12
+# # name="naheem taj"
+# # print(type(age))
+# # print(type(name))
+# # print(type(price))
+# # print("my name is :",name)
+# # print("my age is :",age)
+
+# # a=21
+# # a+=12
+# # print(a)
+# # val1=True
+# # val2=False
+# # print("and operator",val1 and val2)
+
+# # name=input("enter yu age")clear
+
+# # print("welcome",name)
+
+# # #practice question
+# # first=int(input("enter first number:"))
+# # second=int(input("enter seconf number:"))
+# # #sum=first+second
+# # print("sum=",first+second)
+
+# # side=float(input("enter square side"))
+# # print("area=",side**side)
+
+# # first=float(input("enter first number"))
+
+# # second=float(input("enter second number"))
+# # print("avg=",(first+second/2))
 
 
+# # first=float(input("enter first number"))
 
+# # second=float(input("enter second number"))
+# # print("avg=",(first>second))
+
+# #lecture 2
+# # name='naeem taj"\n BALOCHISTAN'
+# # print(name)
+
+# #concatenation
+# # str1="naeem"
+# # len1=len(str1)
+# # print(len1)
+# # str2="taj"
+# # print()
+# # len2=len(str2)
+# # print(len2)
+# # print(str1,"baloch",str2)
+
+
+# #indexing
+# # str="apna collge"
+# # ch=str[5]
+# # print(ch)
+
+# str="naheem taj"
+# print(str[1:10])
+
+# str1="naeem"
+# len1=len(str1)
+# print(len1)
 
