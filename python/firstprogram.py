@@ -236,9 +236,45 @@
 # print(type(str1))
 # print(type(str))
 
-str="naheem taj"
-print(str[-3:-1])
+# str="naheem taj"
+# print(str[-3:-1])
 
 
 
+# str1="naheem taj"
+# len1=len(str1)
+# print(len1)
+ 
+ 
+# str2="balochizta"
+# len2=len(str2)
+# print(len2)
+# print(len1+len2)
 
+# str="i am naheem taj from balochistan"
+# print( str.endswith("tan"))
+# str2=" my name is anheem taj"
+# print(str2.endswith("nat"))
+
+# str="my name is naheem taj"
+# str=str.capitalize()
+# print(str)
+
+# str=" my name is naheem taj"
+# str=str.replace("m","n")
+# print(str)
+
+# str="my name is naheem taj"
+# str=(str.find("t"))
+# print(str)
+
+# str="my name naheem takj"
+# str=str.count("a")
+# print(str)
+
+#practice quention
+name=input("enter ur name:")
+print("length of name:",len(name))
+str="my name is naheem"
+str=str.count("a")
+print(str)
