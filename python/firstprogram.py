@@ -157,16 +157,16 @@
 
 # # #practice question
 # # first=int(input("enter first number:"))
-# # second=int(input("enter seconf number:"))
+# # second=int(input("enter seconf number:"))         #practice question
 # # #sum=first+second
 # # print("sum=",first+second)
 
-# # side=float(input("enter square side"))
+# # side=float(input("enter square side"))           #practice question
 # # print("area=",side**side)
 
 # # first=float(input("enter first number"))
 
-# # second=float(input("enter second number"))
+# # second=float(input("enter second number"))           #practice question
 # # print("avg=",(first+second/2))
 
 
@@ -273,8 +273,80 @@
 # print(str)
 
 #practice quention
-name=input("enter ur name:")
-print("length of name:",len(name))
-str="my name is naheem"
-str=str.count("a")
-print(str)
+# name=input("enter ur name:")
+# print("length of name:",len(name))
+# str="my name is naheem"
+# str=str.count("a")
+# print(str)
+
+# age=21
+# if(age>=11):
+#     print("it is true:")
+
+# light="green"
+# if(light=="red"):
+#     print("stop")
+# elif(light=="green"):
+#     print("go")
+# elif(light=="yellow"):
+#     print("look")
+
+# num=66
+# if(num>12):
+#     print("greater ")
+#     if(num>11):
+#         print("greater")
+
+# light="pink"
+# if(light=="red"):
+#     print("stop")
+# elif(light=="green"):
+#     print("go")
+# elif(light=="yellow"):
+#     print("look")
+# else:
+#     print("light is broken")
+
+
+# num=12
+# if(num>113):
+#     print("true")
+# else:
+#     print("false")
+# 
+
+# marks = int(input("enter marks"))
+# if(marks >= 90):
+#     grade = "A" 
+# elif(marks >= 80 and marks < 90):         #practice question
+#     grade="B"
+# elif(marks >= 70 and marks < 80):
+#     grade="C"
+# else:
+#     grade="D"
+#     print("grade of student->",grade)
+
+
+# num=int(input("enter ur number"))
+# if(num%2==0):
+#     print("event")                         #practice question
+# else:
+#     print("odd")
+
+# num1 = int( input( "enter yours number" ))
+# num2 = int( input( "enter yours number" ))
+# num3 = int( input( "enter yours number" ))
+# if(num1 > num2 and num1 > num3):
+#     print("num1 is greater:",num1)                   #practice question
+# elif(num2 > num1 and num2 > num3):
+#     print("num2 is grester:",num2)
+# else:
+#     print("num3 is greate:",num3)
+
+
+# num=int(input("enter number"))
+
+# if(num%7==0):
+#     print("multiple of 7")                    #practice question
+# else:
+#     print("not a multiple")
