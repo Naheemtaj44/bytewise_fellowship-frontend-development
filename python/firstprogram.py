@@ -350,3 +350,10 @@
 #     print("multiple of 7")                    #practice question
 # else:
 #     print("not a multiple")
+
+
+
+
+ 
+
+
