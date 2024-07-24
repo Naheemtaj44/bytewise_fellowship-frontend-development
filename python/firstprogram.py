@@ -351,6 +351,53 @@
 # else:
 #     print("not a multiple")
 
+# lecture 3
+
+marks=[94.4, 87.3, 67.55,85.55,78.66,66.54,]
+print(marks)
+print(type(marks))
+print(marks[0])
+print(marks[1])
+print(len(marks))
+
+mark=["naeem",44.66,"pasni"]
+# print(mark[0])
+mark[0]="durra"
+print(mark)
+
+
+
+
+
+
+name="i am naheem taj from balochistan"
+print(name.replace("a","Z"))
+
+
+num=int(input("enter first num:"))
+num2=int(input("enter second num2:"))
+num3=int(input("enter third num3:"))
+
+if(num >num2 and num > num3):
+    print("num is greater")
+elif(num2> num and num2>num3):
+    print("num2 is greater ")
+else:
+    print("num3 is greater ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

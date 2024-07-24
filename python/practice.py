@@ -81,14 +81,34 @@
 #     print("o
 
 
-mark=int(input("entewr number"))
-if(mark>=90):
-        grade="A"
-elif(mark>=80 and mark<90):
-        grade="B"
-elif(mark>=70 and mark<80):
-        garde="C"
-else:
-        grade="D"
+# mark=int(input("entewr number"))
+# if(mark>=90):
+#         grade="A"
+# elif(mark>=80 and mark<90):
+#         grade="B"
+# elif(mark>=70 and mark<80):
+#         garde="C"
+# else:
+#         grade="D"
         
-        print("the student grade is:",grade)
+#         print("the student grade is:",grade)
+
+
+# mark=[12.3,78.55,45.66,78.66,54.55,98.77]
+# print(mark)
+# mark[0]="11.11"
+# print(mark)
+# print(len(mark))
+
+
+# str=["durra",22.33,"pasni","gwader"]
+# print(str)
+# str[0]="naheem"
+# print(str)
+
+num=[33.4,76.65,88.9,78.77,99.8,"durra"]
+num[5]="naheem taj"
+print(num)
+print(len(num))
+print(num[1])
+print(type(num))
