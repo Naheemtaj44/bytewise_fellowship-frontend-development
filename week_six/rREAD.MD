@@ -22,6 +22,9 @@ Tips:
 today i learned  how to run and set up tailwind CSS
 that allows developers to rapidly build customizable and responsive user interfaces.
 tailwind is a Css framework that works with classes, tailwind css include only your necessary part of frameword
+and  i install tailwind cssintellisense
+tailwind css only work om classes 
+
 
 
 task two
