@@ -1,42 +1,119 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet"href="nindex.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Netflix Clone</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="nindex.css">
 </head>
 <body>
-    <header class="navbar">
-        <div class="logo">Netflix</div>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">TV Shows</a></li>
-                <li><a href="#">Movies</a></li>
-                <li><a href="#">New & Popular</a></li>
-                <li><a href="#">My List</a></li>
-            </ul>
+    <header class="header">
+        <div class="logo">
+            <img src="logo.png" alt="Netflix Logo">
+        </div>
+        <nav class="nav">
+            <a href="#">Home</a>
+            <a href="#">TV Shows</a>
+            <a href="#">Movies</a>
+            <a href="#">New & Popular</a>
+            <a href="#">My List</a>
         </nav>
+        <div class="profile">
+            <img src="profile.png" alt="User Profile">
+        </div>
     </header>
+
     <section class="hero">
+        <img src="hero.jpg" alt="Hero Image">
         <div class="hero-content">
-            <h1>Featured Movie</h1>
-            <p>Watch the latest movies and TV shows.</p>
-            <button class="btn">Watch Now</button>
+            <h1>Featured Title</h1>
+            <p>Some description about the featured content.</p>
+            <button>Watch Now</button>
         </div>
     </section>
-    <section class="movie-row">
-        <h2>Popular Movies</h2>
-        <div class="movie-row__posters">
-            <img src="movie1.jpg" alt="Movie 1">
-            <img src="movie2.jpg" alt="Movie 2">
-            <img src="movie3.jpg" alt="Movie 3">
-            <!-- Add more movie posters as needed -->
+
+    <section class="content">
+        <h2>Trending Now</h2>
+        <div class="row">
+            <div class="card"><img src="thumb1.jpg" alt="Thumbnail 1"></div>
+            <div class="card"><img src="thumb2.jpg" alt="Thumbnail 2"></div>
+            <div class="card"><img src="thumb3.jpg" alt="Thumbnail 3"></div>
+            <div class="card"><img src="thumb4.jpg" alt="Thumbnail 4"></div>
+            <div class="card"><img src="thumb5.jpg" alt="Thumbnail 5"></div>
+        </div>
+
+        <h2>Popular on Netflix</h2>
+        <div class="row">
+            <div class="card"><img src="thumb6.jpg" alt="Thumbnail 6"></div>
+            <div class="card"><img src="thumb7.jpg" alt="Thumbnail 7"></div>
+            <div class="card"><img src="thumb8.jpg" alt="Thumbnail 8"></div>
+            <div class="card"><img src="thumb9.jpg" alt="Thumbnail 9"></div>
+            <div class="card"><img src="thumb10.jpg" alt="Thumbnail 10"></div>
         </div>
     </section>
-    <!-- Add more movie rows as needed -->
-    <script src="script.js"></script>
 </body>
-</html>
+</html> --><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Netflix Clone</title>
+        <link rel="stylesheet" href="nindex.css">
+    </head>
+    <body>
+        <header class="header">
+            <div class="logo">
+                <img src="logo.png" alt="Netflix Logo">
+            </div>
+            <nav class="nav">
+                <a href="#">Home</a>
+                <a href="#">TV Shows</a>
+                <a href="#">Movies</a>
+                <a href="#">New & Popular</a>
+                <a href="#">My List</a>
+            </nav>
+            <div class="profile">
+                <img src="profile.png" alt="User Profile">
+            </div>
+        </header>
+    
+        <section class="hero">
+            <img src="hero.jpg" alt="Hero Image">
+            <div class="hero-content">
+                <h1>Featured Title</h1>
+                <p>Some description about the featured content.</p>
+                <button>Watch Now</button>
+            </div>
+        </section>
+    
+        <section class="content">
+            <h2>Trending Now</h2>
+            <div class="row">
+                <button class="prev">&#10094;</button>
+                <div class="card-container">
+                    <div class="card"><img src="thumb1.jpg" alt="Thumbnail 1"></div>
+                    <div class="card"><img src="thumb2.jpg" alt="Thumbnail 2"></div>
+                    <div class="card"><img src="thumb3.jpg" alt="Thumbnail 3"></div>
+                    <div class="card"><img src="thumb4.jpg" alt="Thumbnail 4"></div>
+                    <div class="card"><img src="thumb5.jpg" alt="Thumbnail 5"></div>
+                </div>
+                <button class="next">&#10095;</button>
+            </div>
+    
+            <h2>Popular on Netflix</h2>
+            <div class="row">
+                <button class="prev">&#10094;</button>
+                <div class="card-container">
+                    <div class="card"><img src="thumb6.jpg" alt="Thumbnail 6"></div>
+                    <div class="card"><img src="thumb7.jpg" alt="Thumbnail 7"></div>
+                    <div class="card"><img src="thumb8.jpg" alt="Thumbnail 8"></div>
+                    <div class="card"><img src="thumb9.jpg" alt="Thumbnail 9"></div>
+                    <div class="card"><img src="thumb10.jpg" alt="Thumbnail 10"></div>
+                </div>
+                <button class="next">&#10095;</button>
+            </div>
+        </section>
+    
+        <script src="script.js"></script>
+    </body>
+    </html>
