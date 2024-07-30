@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naheemtaj44&label=Profile%20views&color=0e75b6&style=flat" alt="naheemtaj44" /> </p>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/a4edbaa8-d3c4-4675-889e-710c63393f5f)"
+
+
 - 🌱 I’m currently learning **Frontend**
 
 - 💬 Ask me about **anything**
