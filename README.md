@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naheemtaj44&label=Profile%20views&color=0e75b6&style=flat" alt="naheemtaj44" /> </p>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/5fc56c25-eb8d-440d-8d70-e3e0185f185b)">
+< img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/5fc56c25-eb8d-440d-8d70-e3e0185f185b)">
 
 
 - 🌱 I’m currently learning **Frontend**
