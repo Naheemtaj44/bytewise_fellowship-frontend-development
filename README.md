@@ -13,7 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/naheem taj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naheem taj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naeem taj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naeem taj" height="30" width="40" /></a>
+<a href="https://fb.com/naheem taj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naheem taj" height="30" width="40" /></a>
+<a href="https://instagram.com/naeem__taj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naeem__taj" height="30" width="40" /></a>
+<a href="https://medium.com/naeem taj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="naeem taj" height="30" width="40" /></a>
+<a href="https://discord.gg/naheemtaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naheemtaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
