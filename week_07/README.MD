@@ -1,4 +1,4 @@
-Week7 tasks: https://forms.gle/GJkyTAikxVLiqUCw9
+ Week7 tasks: https://forms.gle/GJkyTAikxVLiqUCw9
 
 task 1
 Day 45 frontend bytewise fellowship
@@ -18,3 +18,13 @@ day 47 frontend bytewise fellowship
 today, i learned about higher order function in JavaScript and their benefits and functionality
 higher order function offer several significant advantage for web developers
 firstly they enhance code readability by making it more concise and easier to understand
+
+task 4
+Day 48 of Bytewise Fellowship - Frontend
+Today, I learned about ES6 in JavaScript and its updates,
+ which make it more useful and easier to work with.
+
+taksk 5
+Day 49 of Bytewise Fellowship - Frontend
+Today I got to learn about asynchronous programming in JavaScript,
+ which includes understanding how to handle operations that can take time to complete without blocking the main thread.
