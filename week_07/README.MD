@@ -1,3 +1,11 @@
+ INTRODUCTION
+ this week is about fundamental of JavaScript 
+ consile.log , variable , object ,function,data types higher order function,document object models
+ 
+
+ 
+ 
+ 
  Week7 tasks: https://forms.gle/GJkyTAikxVLiqUCw9
 
 task 1
@@ -28,3 +36,7 @@ taksk 5
 Day 49 of Bytewise Fellowship - Frontend
 Today I got to learn about asynchronous programming in JavaScript,
  which includes understanding how to handle operations that can take time to complete without blocking the main thread.
+
+ task 6
+ Day 50 of Bytewise Fellowship - Frontend
+I developed a weather app using HTML, CSS, and JavaScript
