@@ -14,12 +14,12 @@ Google
 Microsoft
 Netflix
 there are many feature of Jquery
-
+<br>
 task 2
 Day 52 of Bytewise Fellowship - Frontend
 Today, I studied and practiced DOM manipulation in jQuery. It's easier to use than plain JavaScript, and it helps make changes to a web page with less effort and code.
-
+<br>
 task 3
 Day 53 of Bytewise Fellowship - Frontend
-Today, I studied AJAX, focusing on local and global events in jQuery. This knowledge helps me better understand how to manage server interactions efficiently in a web application.
+Today, I studied AJAX, focusing on local and global events in jQuery. This knowledge helps me better understand how to manage server interactions efficiently in a web application..
 
